@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Fu.xu
+title: Fuxu's Blog
 subtitle: Just be yourself
 description: The beautiful attracts the beautiful
 author: fu.xu
@@ -14,7 +14,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://fuxu0625.com
+url: http://snellfu.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -83,11 +83,11 @@ donate:
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  #type: git
-  #repository: git@github.com:fuxu0625/fuxu0625.github.io.git
-  #branch: master
-  - type: git
-    repo: git@github.com:snellfu/snellfu.github.io.git,master
+  type: git
+  repository: https://github.com/snellfu/snellfu.github.io.git
+  branch: master
+  #- type: git
+   # repo: git@github.com:snellfu/snellfu.github.io.git,master
   #- type: git
     #repo: https://git.coding.net/fuxu0625/fuxu0625.coding.me.git,master
   #branch: master
