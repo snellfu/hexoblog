@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Fuxu's Blog
+title: SnellFu's Blog
 subtitle: Just be yourself
 description: The beautiful attracts the beautiful
-author: fu.xu
-language: 
-  - zh-CN
-  - en
+author: SnellFu
+language: zh-Hans
+  #- zh-CN
+  #- en
 timezone:
 
 # URL
@@ -65,7 +65,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: maupassant
+theme: next #maupassant
+
+##rss: http://your-feed-url
 
 #打赏
 donate:
@@ -79,6 +81,14 @@ donate:
 #path: sitemap.xml
 #baidusitemap:
 #path: baidusitemap.xml
+
+#
+social:
+  GitHub: https://github.com/snellfu
+  #Twitter: your-twitter-url
+  #Weibo: your-weibo-url
+  #DouBan: your-douban-url
+  #ZhiHu: your-zhihu-url
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
