@@ -82,6 +82,8 @@ donate:
 #baidusitemap:
 #path: baidusitemap.xml
 
+plugins: hexo-generate-feed
+
 #
 social:
   GitHub: https://github.com/snellfu
